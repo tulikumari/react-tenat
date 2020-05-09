@@ -1,7 +1,7 @@
 
 # ![React + Redux Example App](project-logo.png)
 
-### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld]() spec and API.
+### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc).
 
 ### [Demo](http://glaxom.com/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](http://glaxom.com/)
 
@@ -66,10 +66,6 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
     - List of articles populated from author's created articles or author's favorited articles
 
 <br />
-
-[![Brought to you by Think]()]()
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
