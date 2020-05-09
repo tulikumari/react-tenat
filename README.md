@@ -1,6 +1,7 @@
+
 # ![React + Redux Example App](project-logo.png)
 
-> ### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld]() spec and API.
+### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld]() spec and API.
 
 ### [Demo](http://glaxom.com/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](http://glaxom.com/)
 
@@ -33,7 +34,7 @@ If you want to change the API URL to a local server, simply edit `src/agent.js` 
 
 ## Functionality overview
 
-The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication. You can view a live demo over at https://redux.productionready.io/
+The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication. You can view a live demo over at http://glaxom.com/
 
 **General functionality:**
 
@@ -66,4 +67,11 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 <br />
 
-[![Brought to you by Think]()](https://thinkster.io)
+[![Brought to you by Think]()]()
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](http://glaxom.com/) or [contact support](http://glaxom.com/) and we’ll help you sort it out.
+
