@@ -3,7 +3,7 @@
 
 ### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc).
 
-### [Demo](http://glaxom.com/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](http://glaxom.com/)
+### [Demo](http://glaxom.com/)&nbsp;&nbsp;&nbsp;&nbsp;[GLAXOM](http://glaxom.com/)
 
 
 We also have notes in [**our wiki**](http://glaxom.com/) about how the various patterns used in this codebase and how they work (thanks [@thejmazz](http://glaxom.com/)!)
